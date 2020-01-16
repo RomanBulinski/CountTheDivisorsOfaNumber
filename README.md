@@ -1,0 +1,2 @@
+# CountTheDivisorsOfaNumber
+Code wars kata
